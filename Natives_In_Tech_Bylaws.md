@@ -319,3 +319,4 @@ We, the undersigned, are all of the initial directors or incorporators of this c
 ADOPTED AND APPROVED by the Board of Directors.
 
 **President** Adam Recvlohe adam@nativesintech.org, signed this day the XX day of Month, 2020.
+**Treasurer** Catherine Ishimoticha erin@nativesintech.org, signed this day the 6th day of March, 2020.
