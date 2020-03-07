@@ -318,4 +318,4 @@ We, the undersigned, are all of the initial directors or incorporators of this c
 
 ADOPTED AND APPROVED by the Board of Directors.
 
-**\<Office\>|"Director"** \<Name\> \<email\>, signed this day the XX day of Month, 2020.
+**President** Adam Recvlohe adam@nativesintech.org, signed this day the XX day of Month, 2020.
