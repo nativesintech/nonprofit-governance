@@ -94,7 +94,7 @@ An Advisory Council may be created whose members shall be elected by the members
 
 **Section 13. Parliamentary Procedure**
 
-Any question concerning parliamentary procedure at meetings shall be determined by the President by reference to Robert's Rules of Order.
+Any question concerning parliamentary procedure shall be determined by the President by reference to the organization's [rules of order](Git_Rules_of_Order.md).
 
 **Section 14. Removal**
 
@@ -135,7 +135,9 @@ The Secretary shall attend all meetings of the Advisory Board and of the
 Executive Committee, and assisted by a staff member, will act as a clerk
 thereof. The Secretary's duties shall consist of:
 
-- They shall record all votes and minutes of all proceedings in a book to be kept for that purpose. He/She in concert with the President shall make the arrangements for all meetings of the Advisory Board, including the annual meeting of the organization.
+- They shall record all votes and minutes of all proceedings in a Google Drive text document during each meeting to be kept for that purpose. After each meeting, the contents of the text document shall be added to the "minutes" directory in the [nonprofit-governance](https://github.com/nativesintech/nonprofit-governance) repository formatted as GitHub-flavored markdown. The Board shall vote to accept or correct the minutes according to our [Git rules of order](Git_Rules_of_Order.md). Upon accepting the minutes, the Secretary shall create FreedCamp tasks for each Action Item assigned to each Board Member.
+
+- The Secretary in concert with the President shall make the arrangements for all meetings of the Advisory Board, including the annual meeting of the organization.
 
 - Assisted by a staff member, they shall send notices of all meetings to the members of the Advisory Board and shall take reservations for the meetings.
 
